@@ -21,7 +21,7 @@
     "passportjs",
     "apidoc"
   ],
-  "author": "Adrian Obelmejias <adrian@obel.me>",
+  "author": "Gokulnath Reddy<gokulnathreddy.y@gmail.com>",
   "license": "MIT",
   "apidoc": {
     "title": "koa2-api-boilerplate",
